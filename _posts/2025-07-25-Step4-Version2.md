@@ -21,4 +21,4 @@ Stay tuned for more content — and feel free to [open an issue](https://github.
 
 _Thanks for reading!_ ✨
 
-#### Entry by me: This blog post example was generated with ChatGPT
+#### Entry by me: This example blog post was generated with ChatGPT
